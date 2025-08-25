@@ -12,7 +12,7 @@ I developed the project from start to finish including:
 
 - Implemented task logic and verification using Spring Boot
 - Configured and tested Kafka producers and consumers with embedded Kafka
-- Set up JPA repositories and integrated with an H2 in-memory database for testing
+- Set up JPA repositories and integrated with an H2 in memory database for testing
 - Created automated test cases using JUnit 5 for each task
 - Configured Maven for project build, dependency management, and running tests
 
